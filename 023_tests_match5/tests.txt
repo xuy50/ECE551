@@ -1,0 +1,18 @@
+abcde abcde
+aabcd abbcd
+aaabc abbbc
+aaaab abbbb
+aaaaa bbbbb
+aaaaa bbbbc
+aaaab bbbbb
+aaaaa bbbbb cccccc
+aaaaa
+aaaaaa bbbbb
+aaaaa bbbbbb
+aaaa bbbbb
+aaaaa bbbb
+aaaab bbbbb
+baaab bbbbb
+Aaaaa aaaaa
+111l1 aaaaa
+;;;;; aaaaa

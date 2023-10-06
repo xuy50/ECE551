@@ -1,0 +1,12 @@
+#error
+
+#success
+printRunningAvg population.csv daily_small_0lines.csv
+printRunningAvg population.csv daily_small_5lines.csv
+printRunningAvg population.csv daily_small_7lines.csv
+printCumulative population.csv daily_small_0lines.csv
+printCumulative population.csv daily_small_5lines.csv
+printCumulative population.csv daily_small_7lines.csv
+printDailyMax population.csv daily_small_0lines.csv
+printDailyMax population.csv daily_small_5lines.csv
+printDailyMax population.csv daily_small_7lines.csv

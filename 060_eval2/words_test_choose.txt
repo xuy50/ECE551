@@ -1,0 +1,6 @@
+test:dragon
+test:walrus
+test:cave
+test:peculiar
+test:scary
+test:peaceful

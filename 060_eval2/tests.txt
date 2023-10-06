@@ -1,0 +1,70 @@
+#s1
+#e
+#story-step1
+#story-step1 story1_s1.txt story2_s1.txt
+#story-step1 story_lost_1__s1.txt
+#story-step1 story_lost_r__1_s1.txt
+#story-step1 story_lost_r__1_s1.txt
+
+#s
+#story-step1 story.txt
+#story-step1 story_empty_s1.txt
+#story-step1 story1_s1.txt
+#story-step1 story2_s1.txt
+#story-step1 story3_with____s1.txt
+
+#2
+#e
+#story-step2
+#story-step2 s2.txt
+#story-step2 word words_empty_name_s2.txt
+#story-step2 words_no_colon_s2.txt
+
+#s
+#story-step2 words.txt
+#story-step2 words_colon_word_s2.txt
+#story-step2 words_empty_name_s2.txt
+#story-step2 words_empty_word_s2.txt
+#story-step2 words_empty_s2.txt
+
+#3
+#e
+#story-step3
+#story-step3 s2.txt
+#story-step3 story.txt words.txt
+#story-step3 words.txt story.txt story2.txt
+#story-step3 words.txt story2_0_s3.txt
+#story-step3 words.txt story2_-1_s3.txt
+#story-step3 words.txt story2_2asdb_s3.txt
+
+#s
+story-step3 words.txt story.txt
+story-step3 words.txt story2.txt
+story-step3 words_0_s3.txt story2_0_s3.txt
+story-step3 words_0_s3.txt story2_3_4_s3.txt
+story-step3 words_-1_s3.txt story2_-1_s3.txt
+
+#4
+#e
+#story-step4 
+#story-step4 s2.txt
+#story-step4 -n words.txt
+#story-step4 story.txt words.txt
+#story-step4 words.txt story2.txt -n
+#story-step4 words.txt -n story2.txt
+#story-step4 words.txt story2.txt story.txt
+#story-step4 -n words.txt story2_ma_s4.txt
+story-step4 -n words_ma_.txt story2_ma3_s4.txt
+
+#s
+story-step4 words.txt story.txt
+story-step4 words.txt story2.txt
+story-step4 words_-1_s3.txt story2_-1_s3.txt
+story-step4 words_0_s3.txt story2_3_4_s3.txt
+story-step4 words.txt story2_ma_s4.txt
+story-step4 words_ma_.txt story2_ma3_s4.txt
+story-step4 -n words.txt story.txt
+story-step4 -n words.txt story2.txt
+story-step4 -n words_-1_s3.txt story2_-1_s3.txt
+story-step4 -n words_0_s3.txt story2_3_4_s3.txt
+story-step4 -n words_ma_.txt story2_ma2_s4.txt

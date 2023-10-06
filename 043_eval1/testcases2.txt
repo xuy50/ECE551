@@ -1,0 +1,41 @@
+#error
+printCountries invalid.csv
+printCountries population_64.csv
+printCountries population_onlycomma.csv
+printCountries population_twolinewithspace.csv
+printCountries population_twospaceline.csv
+printRunningAvg population.csv
+printRunningAvg population.csv daily_small_il1.csv
+printRunningAvg population.csv daily_small_il2.csv
+printRunningAvg population.csv daily_small_il3.csv
+printRunningAvg population_emptyname.csv daily_small.csv
+printCumulative population.csv
+printCumulative population.csv daily_small_il1.csv
+printCumulative population.csv daily_small_il2.csv
+printCumulative population.csv daily_small_il3.csv
+printCumulative population_emptyname.csv daily_small.csv
+printDailyMax population.csv
+printDailyMax population.csv daily_small_il1.csv
+printDailyMax population.csv daily_small_il2.csv
+printDailyMax population.csv daily_small_il3.csv
+printDailyMax population_emptyname.csv daily_small.csv
+printRunningAvg population.csv daily_small_0line.csv
+printRunningAvg population.csv daily_small_5line.csv
+printCumulative population.csv daily_small_0line.csv
+printCumulative population.csv daily_small_5line.csv
+printDailyMax population.csv daily_small_0line.csv
+printDailyMax population.csv daily_small_5line.csv
+
+#success
+printCountries population.csv
+printCountries population_63.csv
+printCountries population_emptyname.csv
+printCountries population_spaceline.csv
+printRunningAvg population.csv daily_small.csv
+printCumulative population.csv daily_small.csv
+printDailyMax population.csv daily_small.csv
+printRunningAvg population.csv daily_cases.csv
+printCumulative population.csv daily_cases.csv
+printDailyMax population.csv daily_cases.csv
+printCumulative population.csv daily_small_5line.csv
+printDailyMax population.csv daily_small_5line.csv
